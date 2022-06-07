@@ -1,0 +1,23 @@
+body{
+    background-color: lightpink;
+}
+.div4{background-color:lightgreen;
+    color:black; 
+    border-color: lightgreen; 
+    border-style: solid;
+    position: fixed;
+    top:0px;
+    left:0px;
+    margin:0px;
+    right: 0px;
+}
+.w{
+    font-size: 20px;
+}
+.w2{
+    font-size: 20px;
+    float:right;
+}
+.be{
+    font-size:1vw
+}
